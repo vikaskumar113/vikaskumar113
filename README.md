@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Vikas Rajput
+<p align="center">
+  <img src="https://github.com/vikaskumar113/vikaskumar113/raw/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Vikas Rajput – iOS Developer Banner" width="100%" />
+</p>
 
-I'm a professional **iOS Developer** with experience delivering scalable, feature-rich iOS applications across various industries. I’ve helped clients bring their ideas to life through robust mobile solutions built using **Swift**, **Objective-C**, **SwiftUI**, and advanced integrations like **Firebase**, **payment gateways**, **ARKit**, and **Socket.IO**.
+# 👋 Hi, I'm Vikas Kumar
+
+I'm a professional **iOS Developer** with experience delivering scalable, feature-rich iOS applications across various industries. I’ve helped clients bring their ideas to life through robust mobile solutions built using **Swift**, **Objective-C**, **SwiftUI**, and advanced integrations like **Firebase**, **payment gateways**, **Open-AI**, and **Socket.IO**.
 
 I've contributed to several live, production-ready apps currently available on the **App Store**, covering domains like field services, barcode utilities, productivity, translation, music, and relationships.
 
